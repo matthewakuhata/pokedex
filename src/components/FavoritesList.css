@@ -1,0 +1,12 @@
+.favourites-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 5rem;
+}
+
+.favourites-list__cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+}
