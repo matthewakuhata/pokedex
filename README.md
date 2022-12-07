@@ -10,3 +10,6 @@ Adding favourites and saving to local storage.
 
 Using a context to provide the application with favourites information. Includes custom hook
 to ensure favourties is used inside a provider.
+
+[Example](./example.png)
+[Favourites](./favourites.png)
